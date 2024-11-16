@@ -1,4 +1,4 @@
-<i><b>👋 Hi, I’m Rishabh </b></i>
+<i><b>👋 Hi, I’m Samiksha </b></i>
 
 - 👀 I’m interested in: CyberSecurity
 - 🌱 I’m currently learning: C
