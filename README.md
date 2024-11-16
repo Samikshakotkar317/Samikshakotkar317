@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Samiksha
+<i><b>👋 Hi, I’m Rishabh </b></i>
+
 - 👀 I’m interested in: CyberSecurity
 - 🌱 I’m currently learning: C
 - 💞️ I’m looking towards contributing more oftenly to open source
