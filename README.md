@@ -1,7 +1,7 @@
 <i><b>👋 Hi, I’m Samiksha </b></i>
 
-- 👀 I’m interested in: CyberSecurity
-- 🌱 I’m currently learning: C
+- 👀 I’m interested in: CyberSecurity, Problem Solving (DSA and CP)
+- 🌱 I’m currently learning: DSA, web security
 - 💞️ I’m looking towards contributing more oftenly to open source
 - 📫 To reach me: samikshakotkar31@gmail.com
 - ⚡ Fun fact: Java>C
